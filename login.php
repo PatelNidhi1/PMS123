@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+  //this is comment
 <?php 
 session_start();
 include('./db_connect.php');
